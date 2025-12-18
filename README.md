@@ -72,4 +72,4 @@ Plot residual standar untuk memvalidasi asumsi independensi antar tahun kejadian
 Proyek ini dibuat untuk tujuan demonstrasi aktuaria dan riset. Meskipun menggunakan metode standar industri (Mack & Bootstrap), hasil estimasi untuk tujuan pelaporan keuangan riil harus divalidasi oleh *Qualified Actuary*.
 
 ---
-*Part of the Actuarial Engineering Portfolio by [Nama Kamu]*
+*Part of the Actuarial Engineering Portfolio by rayan | linkedin.com/rosyid-royan*
