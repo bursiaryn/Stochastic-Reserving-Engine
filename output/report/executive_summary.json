@@ -1,0 +1,40 @@
+{
+    "report_date": "2025-12-18",
+    "lines_of_business": [
+        "Auto",
+        "WorkersComp",
+        "GeneralLiability"
+    ],
+    "total_reported": 302597543.2772263,
+    "total_ibnr_best_estimate": 54936672.94896575,
+    "total_ultimate": 357534216.2261921,
+    "total_scr": 81128990.6276355,
+    "solvency_ratio": 175.0,
+    "diversification_benefit": -20957116.628963254,
+    "lob_details": {
+        "Auto": {
+            "reported": 103193572.2719375,
+            "best_estimate_ibnr": 10178082.947783746,
+            "var_95": 20638491.88331601,
+            "var_99_5": 25749269.684776723,
+            "cv": 61.6225976471912,
+            "scr": 15571186.736992978
+        },
+        "WorkersComp": {
+            "reported": 106002629.13461883,
+            "best_estimate_ibnr": 22099229.745000534,
+            "var_95": 49844262.74724068,
+            "var_99_5": 64962636.310648516,
+            "cv": 80.18828555579034,
+            "scr": 42863406.56564798
+        },
+        "GeneralLiability": {
+            "reported": 93401341.87066999,
+            "best_estimate_ibnr": 22659360.25618147,
+            "var_95": 45911919.13650099,
+            "var_99_5": 61913926.12694035,
+            "cv": 57.659077835843995,
+            "scr": 39254565.870758876
+        }
+    }
+}
