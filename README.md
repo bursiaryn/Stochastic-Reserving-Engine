@@ -37,12 +37,12 @@ Menghasilkan paket pelaporan lengkap:
 ### Stochastic Reserve Distribution
 Visualisasi ketidakpastian cadangan yang menunjukkan *range* kemungkinan pembayaran klaim di masa depan. Area merah menunjukkan *Capital Requirement*.
 
-![Reserve Dist](output/figures/reserve_distribution.png)
+![Reserve Dist](output/figures/07_reserve_uncertainty.png)
 
 ### Mack Residual Diagnostics
 Plot residual standar untuk memvalidasi asumsi independensi antar tahun kejadian (*Accident Year*) dan tahun pengembangan (*Development Year*).
 
-![Mack Residuals](output/figures/mack_residuals.png)
+![Mack Residuals](output/figures/10_residual_heatmaps.png)
 
 ## 🛠️ Technical Methodology
 
